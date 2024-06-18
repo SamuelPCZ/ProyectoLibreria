@@ -1,6 +1,6 @@
 ##Librería
 
-Este es un proyecto de una librería online con base de datos, en la cual te puedes registrar y podrás leer algunos 
-archivos que están subidos a la base de datos. En este caso, el único capaz de subir los archivos es el administrador.
+El proyecto consiste en el desarrollo de un sistema de gestión de una librería online implementado en Java. 
+Este sistema permite a los usuarios registrarse, explorar una amplia variedad de documentos disponibles.
 
-[![Librería]](https://youtu.be/P2Dov0uCBm0)
+[![Video demostración librería]](https://youtu.be/P2Dov0uCBm0)
