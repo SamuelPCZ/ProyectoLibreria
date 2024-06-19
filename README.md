@@ -23,6 +23,7 @@ El sistema cuenta con un panel de administración que permite al administrador g
 
 ## Tecnologías utilizadas
 Java
+
 mysql
 
 
